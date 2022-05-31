@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 ## GoGoCode 是什么？
-This is a test!!!  代码转化如此简单!!!
+This is a test!!!  代码转化如此简单!!!   我是B分支!!!
 
 
 [English version of README](README.md)
@@ -22,7 +22,7 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 ### 需要转换的代码
 
 ```javascript
-const a = 21;
+const a = 1;
 const b = 2;
 ```
 
