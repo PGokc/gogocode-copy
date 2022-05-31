@@ -1,0 +1,16 @@
+{
+  "name": "deadly-simple-plugin-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "babel --plugins ./plugin.js ./input1.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "gogocode": "^0.2.24"
+  }
+}

@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+**/node_modules
+**/coverage
+.eslintcache
+**/package-lock.json
+test.html
+error.js
+packages/gogocode-core/umd
